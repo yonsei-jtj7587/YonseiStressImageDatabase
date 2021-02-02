@@ -41,4 +41,3 @@ AI data provided by AI Hub was built as part of a business National Information 
 
 Specialized field AI data was built for artificial intelligence technology development and prototype production, and can be used for research purposes in various fields such as intelligent services and chatbots.
 
-# YonseiStressImageDatabase
